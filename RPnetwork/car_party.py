@@ -170,7 +170,7 @@ class party(Thread):
         
         print('...')
         print('...')
-        print('Shares of computed result recieved')
+        print('Shares of computed result received')
         
         
         x1_res=ss.rec(self.F, resx1)

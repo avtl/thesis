@@ -145,7 +145,7 @@ class party(Thread):
         input_sharesI10=self.get_share('I10'+str(self.i)).n
         input_sharesI11=self.get_share('I11'+str(self.i)).n
 
-        print('Shares from data owner have been recieved')
+        print('Shares from data owner have been received')
         print(' ')
         print('Computing secure Gaussian elimination')
         print('...')
