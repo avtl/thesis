@@ -88,8 +88,7 @@ class party(Thread):
     
     
     def run(self):
-        
-        print('Starting party ', self.i)
+
         n=3
         m = 2   # number of A rows
         nn = 2  # number of A coloums
